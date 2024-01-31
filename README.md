@@ -8,7 +8,14 @@ When the track is listened, the user can store it in a playlist if needed.
 It helps music curators/DJs to prepare dj mixes/podcasts/playlists.
 
 ## DB wireframe
+MCD
 ![image](https://github.com/TristanZvunka/Imprint/assets/145133625/21eabe9a-b378-4475-b413-119a3106aee1)
+
+MLD
+![image](https://github.com/TristanZvunka/Imprint/assets/145133625/a30d4733-a95e-4c2a-b0a9-f9de44b4dbd4)
+
+MPD
+![image](https://github.com/TristanZvunka/Imprint/assets/145133625/54e91beb-8747-47e4-8bd1-823e82cbeae8)
 
 
 ## Wireframe
