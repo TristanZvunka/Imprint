@@ -1,14 +1,17 @@
 ## Concept
 
-Imprint is a free license website that allows user to create a account and store playlists, tracks or podcasts as cards.
+Imprint is a free license website that allows user to create a account and store tracks as cards.
 Those cards have different attributes, tags to sort them.
 Cards are initially marked as "not listened yet".
-When the track is listened, notes can be added and the user choose between different status :
-- I love it ! :)
-- I need a second listen :/
-- Not my type :(
+When the track is listened, the user can store it in a playlist if needed.
 
-It helps music curators/DJs to store music to be listened.
+It helps music curators/DJs to prepare dj mixes/podcasts/playlists.
+
+## DB wireframe
+![image](https://github.com/TristanZvunka/Imprint/assets/145133625/7de64d62-3d2d-4751-aea1-2d93f0774c7f)
+
+## Wireframe
+![image](https://github.com/TristanZvunka/Imprint/assets/145133625/10f03f2e-55fd-4273-a11e-b198b5eb80ab)
 
 ## Setup & Use
 
